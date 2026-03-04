@@ -10,9 +10,6 @@ Repository for segmentation of a specimen scan.  See [this JSON file](MorphoDepo
 
 ## Screenshots
 
-![screenshot-1.png](screenshots/screenshot-1.png)
-
-![Magna](screenshots/screenshot-2.png)
 _Magna_
 
 ![screenshot-3.png](screenshots/screenshot-3.png)
